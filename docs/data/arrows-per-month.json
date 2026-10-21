@@ -1,0 +1,482 @@
+{
+ "EURUSD|M15|1.5": {
+  "arrows": 5171,
+  "months": 36.34,
+  "per_month": 142.31
+ },
+ "EURUSD|M15|2.0": {
+  "arrows": 3601,
+  "months": 36.34,
+  "per_month": 99.1
+ },
+ "EURUSD|M15|2.5": {
+  "arrows": 2638,
+  "months": 36.34,
+  "per_month": 72.6
+ },
+ "EURUSD|M15|3.0": {
+  "arrows": 2014,
+  "months": 36.34,
+  "per_month": 55.43
+ },
+ "EURUSD|M15|4.0": {
+  "arrows": 1356,
+  "months": 36.34,
+  "per_month": 37.32
+ },
+ "EURUSD|M15|5.0": {
+  "arrows": 1002,
+  "months": 36.34,
+  "per_month": 27.58
+ },
+ "EURUSD|H1|1.5": {
+  "arrows": 1210,
+  "months": 36.34,
+  "per_month": 33.3
+ },
+ "EURUSD|H1|2.0": {
+  "arrows": 860,
+  "months": 36.34,
+  "per_month": 23.67
+ },
+ "EURUSD|H1|2.5": {
+  "arrows": 640,
+  "months": 36.34,
+  "per_month": 17.61
+ },
+ "EURUSD|H1|3.0": {
+  "arrows": 489,
+  "months": 36.34,
+  "per_month": 13.46
+ },
+ "EURUSD|H1|4.0": {
+  "arrows": 325,
+  "months": 36.34,
+  "per_month": 8.94
+ },
+ "EURUSD|H1|5.0": {
+  "arrows": 235,
+  "months": 36.34,
+  "per_month": 6.47
+ },
+ "EURUSD|H4|1.5": {
+  "arrows": 315,
+  "months": 36.34,
+  "per_month": 8.67
+ },
+ "EURUSD|H4|2.0": {
+  "arrows": 227,
+  "months": 36.34,
+  "per_month": 6.25
+ },
+ "EURUSD|H4|2.5": {
+  "arrows": 153,
+  "months": 36.34,
+  "per_month": 4.21
+ },
+ "EURUSD|H4|3.0": {
+  "arrows": 119,
+  "months": 36.34,
+  "per_month": 3.27
+ },
+ "EURUSD|H4|4.0": {
+  "arrows": 73,
+  "months": 36.34,
+  "per_month": 2.01
+ },
+ "EURUSD|H4|5.0": {
+  "arrows": 59,
+  "months": 36.34,
+  "per_month": 1.62
+ },
+ "EURUSD|D1|1.5": {
+  "arrows": 43,
+  "months": 36.24,
+  "per_month": 1.19
+ },
+ "EURUSD|D1|2.0": {
+  "arrows": 39,
+  "months": 36.24,
+  "per_month": 1.08
+ },
+ "EURUSD|D1|2.5": {
+  "arrows": 29,
+  "months": 36.24,
+  "per_month": 0.8
+ },
+ "EURUSD|D1|3.0": {
+  "arrows": 21,
+  "months": 36.24,
+  "per_month": 0.58
+ },
+ "EURUSD|D1|4.0": {
+  "arrows": 13,
+  "months": 36.24,
+  "per_month": 0.36
+ },
+ "EURUSD|D1|5.0": {
+  "arrows": 7,
+  "months": 36.24,
+  "per_month": 0.19
+ },
+ "GBPUSD|M15|1.5": {
+  "arrows": 5415,
+  "months": 36.34,
+  "per_month": 149.02
+ },
+ "GBPUSD|M15|2.0": {
+  "arrows": 3793,
+  "months": 36.34,
+  "per_month": 104.38
+ },
+ "GBPUSD|M15|2.5": {
+  "arrows": 2775,
+  "months": 36.34,
+  "per_month": 76.37
+ },
+ "GBPUSD|M15|3.0": {
+  "arrows": 2097,
+  "months": 36.34,
+  "per_month": 57.71
+ },
+ "GBPUSD|M15|4.0": {
+  "arrows": 1352,
+  "months": 36.34,
+  "per_month": 37.21
+ },
+ "GBPUSD|M15|5.0": {
+  "arrows": 996,
+  "months": 36.34,
+  "per_month": 27.41
+ },
+ "GBPUSD|H1|1.5": {
+  "arrows": 1238,
+  "months": 36.34,
+  "per_month": 34.07
+ },
+ "GBPUSD|H1|2.0": {
+  "arrows": 862,
+  "months": 36.34,
+  "per_month": 23.72
+ },
+ "GBPUSD|H1|2.5": {
+  "arrows": 641,
+  "months": 36.34,
+  "per_month": 17.64
+ },
+ "GBPUSD|H1|3.0": {
+  "arrows": 506,
+  "months": 36.34,
+  "per_month": 13.93
+ },
+ "GBPUSD|H1|4.0": {
+  "arrows": 318,
+  "months": 36.34,
+  "per_month": 8.75
+ },
+ "GBPUSD|H1|5.0": {
+  "arrows": 232,
+  "months": 36.34,
+  "per_month": 6.38
+ },
+ "GBPUSD|H4|1.5": {
+  "arrows": 314,
+  "months": 36.34,
+  "per_month": 8.64
+ },
+ "GBPUSD|H4|2.0": {
+  "arrows": 206,
+  "months": 36.34,
+  "per_month": 5.67
+ },
+ "GBPUSD|H4|2.5": {
+  "arrows": 167,
+  "months": 36.34,
+  "per_month": 4.6
+ },
+ "GBPUSD|H4|3.0": {
+  "arrows": 127,
+  "months": 36.34,
+  "per_month": 3.5
+ },
+ "GBPUSD|H4|4.0": {
+  "arrows": 81,
+  "months": 36.34,
+  "per_month": 2.23
+ },
+ "GBPUSD|H4|5.0": {
+  "arrows": 51,
+  "months": 36.34,
+  "per_month": 1.4
+ },
+ "GBPUSD|D1|1.5": {
+  "arrows": 47,
+  "months": 36.24,
+  "per_month": 1.3
+ },
+ "GBPUSD|D1|2.0": {
+  "arrows": 31,
+  "months": 36.24,
+  "per_month": 0.86
+ },
+ "GBPUSD|D1|2.5": {
+  "arrows": 21,
+  "months": 36.24,
+  "per_month": 0.58
+ },
+ "GBPUSD|D1|3.0": {
+  "arrows": 17,
+  "months": 36.24,
+  "per_month": 0.47
+ },
+ "GBPUSD|D1|4.0": {
+  "arrows": 13,
+  "months": 36.24,
+  "per_month": 0.36
+ },
+ "GBPUSD|D1|5.0": {
+  "arrows": 9,
+  "months": 36.24,
+  "per_month": 0.25
+ },
+ "USDJPY|M15|1.5": {
+  "arrows": 5310,
+  "months": 36.34,
+  "per_month": 146.13
+ },
+ "USDJPY|M15|2.0": {
+  "arrows": 3624,
+  "months": 36.34,
+  "per_month": 99.73
+ },
+ "USDJPY|M15|2.5": {
+  "arrows": 2628,
+  "months": 36.34,
+  "per_month": 72.32
+ },
+ "USDJPY|M15|3.0": {
+  "arrows": 2024,
+  "months": 36.34,
+  "per_month": 55.7
+ },
+ "USDJPY|M15|4.0": {
+  "arrows": 1352,
+  "months": 36.34,
+  "per_month": 37.21
+ },
+ "USDJPY|M15|5.0": {
+  "arrows": 942,
+  "months": 36.34,
+  "per_month": 25.92
+ },
+ "USDJPY|H1|1.5": {
+  "arrows": 1211,
+  "months": 36.34,
+  "per_month": 33.33
+ },
+ "USDJPY|H1|2.0": {
+  "arrows": 832,
+  "months": 36.34,
+  "per_month": 22.9
+ },
+ "USDJPY|H1|2.5": {
+  "arrows": 598,
+  "months": 36.34,
+  "per_month": 16.46
+ },
+ "USDJPY|H1|3.0": {
+  "arrows": 458,
+  "months": 36.34,
+  "per_month": 12.6
+ },
+ "USDJPY|H1|4.0": {
+  "arrows": 297,
+  "months": 36.34,
+  "per_month": 8.17
+ },
+ "USDJPY|H1|5.0": {
+  "arrows": 221,
+  "months": 36.34,
+  "per_month": 6.08
+ },
+ "USDJPY|H4|1.5": {
+  "arrows": 316,
+  "months": 36.34,
+  "per_month": 8.7
+ },
+ "USDJPY|H4|2.0": {
+  "arrows": 211,
+  "months": 36.34,
+  "per_month": 5.81
+ },
+ "USDJPY|H4|2.5": {
+  "arrows": 158,
+  "months": 36.34,
+  "per_month": 4.35
+ },
+ "USDJPY|H4|3.0": {
+  "arrows": 122,
+  "months": 36.34,
+  "per_month": 3.36
+ },
+ "USDJPY|H4|4.0": {
+  "arrows": 89,
+  "months": 36.34,
+  "per_month": 2.45
+ },
+ "USDJPY|H4|5.0": {
+  "arrows": 60,
+  "months": 36.34,
+  "per_month": 1.65
+ },
+ "USDJPY|D1|1.5": {
+  "arrows": 52,
+  "months": 36.24,
+  "per_month": 1.43
+ },
+ "USDJPY|D1|2.0": {
+  "arrows": 40,
+  "months": 36.24,
+  "per_month": 1.1
+ },
+ "USDJPY|D1|2.5": {
+  "arrows": 24,
+  "months": 36.24,
+  "per_month": 0.66
+ },
+ "USDJPY|D1|3.0": {
+  "arrows": 18,
+  "months": 36.24,
+  "per_month": 0.5
+ },
+ "USDJPY|D1|4.0": {
+  "arrows": 15,
+  "months": 36.24,
+  "per_month": 0.41
+ },
+ "USDJPY|D1|5.0": {
+  "arrows": 9,
+  "months": 36.24,
+  "per_month": 0.25
+ },
+ "XAUUSD|M15|1.5": {
+  "arrows": 4567,
+  "months": 36.34,
+  "per_month": 125.69
+ },
+ "XAUUSD|M15|2.0": {
+  "arrows": 3111,
+  "months": 36.34,
+  "per_month": 85.62
+ },
+ "XAUUSD|M15|2.5": {
+  "arrows": 2309,
+  "months": 36.34,
+  "per_month": 63.54
+ },
+ "XAUUSD|M15|3.0": {
+  "arrows": 1789,
+  "months": 36.34,
+  "per_month": 49.23
+ },
+ "XAUUSD|M15|4.0": {
+  "arrows": 1154,
+  "months": 36.34,
+  "per_month": 31.76
+ },
+ "XAUUSD|M15|5.0": {
+  "arrows": 822,
+  "months": 36.34,
+  "per_month": 22.62
+ },
+ "XAUUSD|H1|1.5": {
+  "arrows": 1114,
+  "months": 36.34,
+  "per_month": 30.66
+ },
+ "XAUUSD|H1|2.0": {
+  "arrows": 786,
+  "months": 36.34,
+  "per_month": 21.63
+ },
+ "XAUUSD|H1|2.5": {
+  "arrows": 562,
+  "months": 36.34,
+  "per_month": 15.47
+ },
+ "XAUUSD|H1|3.0": {
+  "arrows": 428,
+  "months": 36.34,
+  "per_month": 11.78
+ },
+ "XAUUSD|H1|4.0": {
+  "arrows": 302,
+  "months": 36.34,
+  "per_month": 8.31
+ },
+ "XAUUSD|H1|5.0": {
+  "arrows": 216,
+  "months": 36.34,
+  "per_month": 5.94
+ },
+ "XAUUSD|H4|1.5": {
+  "arrows": 296,
+  "months": 36.34,
+  "per_month": 8.15
+ },
+ "XAUUSD|H4|2.0": {
+  "arrows": 202,
+  "months": 36.34,
+  "per_month": 5.56
+ },
+ "XAUUSD|H4|2.5": {
+  "arrows": 136,
+  "months": 36.34,
+  "per_month": 3.74
+ },
+ "XAUUSD|H4|3.0": {
+  "arrows": 100,
+  "months": 36.34,
+  "per_month": 2.75
+ },
+ "XAUUSD|H4|4.0": {
+  "arrows": 71,
+  "months": 36.34,
+  "per_month": 1.95
+ },
+ "XAUUSD|H4|5.0": {
+  "arrows": 61,
+  "months": 36.34,
+  "per_month": 1.68
+ },
+ "XAUUSD|D1|1.5": {
+  "arrows": 55,
+  "months": 36.24,
+  "per_month": 1.52
+ },
+ "XAUUSD|D1|2.0": {
+  "arrows": 39,
+  "months": 36.24,
+  "per_month": 1.08
+ },
+ "XAUUSD|D1|2.5": {
+  "arrows": 31,
+  "months": 36.24,
+  "per_month": 0.86
+ },
+ "XAUUSD|D1|3.0": {
+  "arrows": 17,
+  "months": 36.24,
+  "per_month": 0.47
+ },
+ "XAUUSD|D1|4.0": {
+  "arrows": 7,
+  "months": 36.24,
+  "per_month": 0.19
+ },
+ "XAUUSD|D1|5.0": {
+  "arrows": 5,
+  "months": 36.24,
+  "per_month": 0.14
+ }
+}

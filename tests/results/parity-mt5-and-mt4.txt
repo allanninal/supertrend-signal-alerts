@@ -1,0 +1,80 @@
+# MT5 (Strategy Tester dumps compared with tests/reference.py), 36 files
+PASS st_default_BTCUSD_H1                     bars  72282  line OK  buys  754 OK  sells  755 OK
+PASS st_default_BTCUSD_H4                     bars  18072  line OK  buys  205 OK  sells  205 OK
+PASS st_default_BTCUSD_M15                    bars   4450  line OK  buys   54 OK  sells   55 OK
+PASS st_default_EURUSD_H1                     bars  72042  line OK  buys  907 OK  sells  908 OK
+PASS st_default_EURUSD_H4                     bars  18035  line OK  buys  251 OK  sells  252 OK
+PASS st_default_EURUSD_M15                    bars   4450  line OK  buys   57 OK  sells   58 OK
+PASS st_default_GBPJPY_H1                     bars  71798  line OK  buys  880 OK  sells  880 OK
+PASS st_default_GBPJPY_H4                     bars  17975  line OK  buys  229 OK  sells  229 OK
+PASS st_default_GBPJPY_M15                    bars   4450  line OK  buys   62 OK  sells   63 OK
+PASS st_default_XAUUSD_H1                     bars  68409  line OK  buys  817 OK  sells  818 OK
+PASS st_default_XAUUSD_H4                     bars  17877  line OK  buys  228 OK  sells  228 OK
+PASS st_default_XAUUSD_M15                    bars   4450  line OK  buys   59 OK  sells   60 OK
+PASS st_sma_m2_p14_BTCUSD_H1                  bars  72282  line OK  buys 1421 OK  sells 1422 OK
+PASS st_sma_m2_p14_BTCUSD_H4                  bars  18072  line OK  buys  370 OK  sells  371 OK
+PASS st_sma_m2_p14_BTCUSD_M15                 bars   4450  line OK  buys  114 OK  sells  115 OK
+PASS st_sma_m2_p14_EURUSD_H1                  bars  72042  line OK  buys 1740 OK  sells 1741 OK
+PASS st_sma_m2_p14_EURUSD_H4                  bars  18035  line OK  buys  429 OK  sells  430 OK
+PASS st_sma_m2_p14_EURUSD_M15                 bars   4450  line OK  buys  111 OK  sells  112 OK
+PASS st_sma_m2_p14_GBPJPY_H1                  bars  71798  line OK  buys 1658 OK  sells 1659 OK
+PASS st_sma_m2_p14_GBPJPY_H4                  bars  17975  line OK  buys  407 OK  sells  407 OK
+PASS st_sma_m2_p14_GBPJPY_M15                 bars   4450  line OK  buys  125 OK  sells  126 OK
+PASS st_sma_m2_p14_XAUUSD_H1                  bars  68409  line OK  buys 1560 OK  sells 1561 OK
+PASS st_sma_m2_p14_XAUUSD_H4                  bars  17877  line OK  buys  397 OK  sells  397 OK
+PASS st_sma_m2_p14_XAUUSD_M15                 bars   4450  line OK  buys  110 OK  sells  110 OK
+PASS st_ema_rsi_BTCUSD_H1                     bars  72282  line OK  buys  432 OK  sells  397 OK
+PASS st_ema_rsi_BTCUSD_H4                     bars  18072  line OK  buys  113 OK  sells  101 OK
+PASS st_ema_rsi_BTCUSD_M15                    bars   4450  line OK  buys   32 OK  sells   33 OK
+PASS st_ema_rsi_EURUSD_H1                     bars  72042  line OK  buys  500 OK  sells  494 OK
+PASS st_ema_rsi_EURUSD_H4                     bars  18035  line OK  buys  132 OK  sells  137 OK
+PASS st_ema_rsi_EURUSD_M15                    bars   4450  line OK  buys   17 OK  sells   45 OK
+PASS st_ema_rsi_GBPJPY_H1                     bars  71798  line OK  buys  516 OK  sells  450 OK
+PASS st_ema_rsi_GBPJPY_H4                     bars  17975  line OK  buys  144 OK  sells   98 OK
+PASS st_ema_rsi_GBPJPY_M15                    bars   4450  line OK  buys   33 OK  sells   37 OK
+PASS st_ema_rsi_XAUUSD_H1                     bars  68409  line OK  buys  495 OK  sells  401 OK
+PASS st_ema_rsi_XAUUSD_H4                     bars  17877  line OK  buys  148 OK  sells  101 OK
+PASS st_ema_rsi_XAUUSD_M15                    bars   4450  line OK  buys   27 OK  sells   33 OK
+
+ALL PASS (36 files)
+
+# MT4 (Strategy Tester dumps compared with tests/reference.py), 37 files
+PASS st_default_BTCUSD_H1                     bars  15527  line OK  buys  194 OK  sells  194 OK
+PASS st_default_BTCUSD_H4                     bars   3882  line OK  buys   49 OK  sells   50 OK
+PASS st_default_BTCUSD_M15                    bars  62085  line OK  buys  795 OK  sells  796 OK
+PASS st_default_EURUSD_H1                     bars  10998  line OK  buys  137 OK  sells  138 OK
+PASS st_default_EURUSD_H4                     bars   2754  line OK  buys   34 OK  sells   35 OK
+PASS st_default_EURUSD_M15                    bars  43980  line OK  buys  602 OK  sells  603 OK
+PASS st_default_GBPJPY_H1                     bars  10997  line OK  buys  137 OK  sells  137 OK
+PASS st_default_GBPJPY_H4                     bars   2754  line OK  buys   37 OK  sells   37 OK
+PASS st_default_GBPJPY_M15                    bars  43978  line OK  buys  593 OK  sells  593 OK
+PASS st_default_XAUUSD_H1                     bars  10444  line OK  buys  125 OK  sells  125 OK
+PASS st_default_XAUUSD_H4                     bars   2730  line OK  buys   29 OK  sells   30 OK
+PASS st_default_XAUUSD_M15                    bars  41751  line OK  buys  522 OK  sells  522 OK
+PASS st_default_ticks_EURUSD_H1               bars   5813  line OK  buys   76 OK  sells   77 OK
+PASS st_sma_m2_p14_BTCUSD_H1                  bars  15527  line OK  buys  343 OK  sells  344 OK
+PASS st_sma_m2_p14_BTCUSD_H4                  bars   3882  line OK  buys   89 OK  sells   90 OK
+PASS st_sma_m2_p14_BTCUSD_M15                 bars  62085  line OK  buys 1546 OK  sells 1547 OK
+PASS st_sma_m2_p14_EURUSD_H1                  bars  10998  line OK  buys  270 OK  sells  271 OK
+PASS st_sma_m2_p14_EURUSD_H4                  bars   2754  line OK  buys   63 OK  sells   64 OK
+PASS st_sma_m2_p14_EURUSD_M15                 bars  43980  line OK  buys 1096 OK  sells 1096 OK
+PASS st_sma_m2_p14_GBPJPY_H1                  bars  10997  line OK  buys  262 OK  sells  262 OK
+PASS st_sma_m2_p14_GBPJPY_H4                  bars   2754  line OK  buys   66 OK  sells   67 OK
+PASS st_sma_m2_p14_GBPJPY_M15                 bars  43978  line OK  buys 1128 OK  sells 1128 OK
+PASS st_sma_m2_p14_XAUUSD_H1                  bars  10444  line OK  buys  240 OK  sells  240 OK
+PASS st_sma_m2_p14_XAUUSD_H4                  bars   2730  line OK  buys   56 OK  sells   56 OK
+PASS st_sma_m2_p14_XAUUSD_M15                 bars  41751  line OK  buys  968 OK  sells  968 OK
+PASS st_ema_rsi_BTCUSD_H1                     bars  15527  line OK  buys  111 OK  sells  104 OK
+PASS st_ema_rsi_BTCUSD_H4                     bars   3882  line OK  buys   22 OK  sells   26 OK
+PASS st_ema_rsi_BTCUSD_M15                    bars  62085  line OK  buys  457 OK  sells  434 OK
+PASS st_ema_rsi_EURUSD_H1                     bars  10998  line OK  buys   79 OK  sells   72 OK
+PASS st_ema_rsi_EURUSD_H4                     bars   2754  line OK  buys   18 OK  sells   14 OK
+PASS st_ema_rsi_EURUSD_M15                    bars  43980  line OK  buys  317 OK  sells  338 OK
+PASS st_ema_rsi_GBPJPY_H1                     bars  10997  line OK  buys   93 OK  sells   66 OK
+PASS st_ema_rsi_GBPJPY_H4                     bars   2754  line OK  buys   31 OK  sells   12 OK
+PASS st_ema_rsi_GBPJPY_M15                    bars  43978  line OK  buys  356 OK  sells  311 OK
+PASS st_ema_rsi_XAUUSD_H1                     bars  10444  line OK  buys   81 OK  sells   57 OK
+PASS st_ema_rsi_XAUUSD_H4                     bars   2730  line OK  buys   21 OK  sells   11 OK
+PASS st_ema_rsi_XAUUSD_M15                    bars  41751  line OK  buys  319 OK  sells  248 OK
+
+ALL PASS (37 files)

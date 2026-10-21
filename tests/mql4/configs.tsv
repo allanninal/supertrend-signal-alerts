@@ -1,0 +1,3 @@
+st_default	InpATR=10,InpMult=3.0,InpMethod=0,InpUseEMA=false,InpEMA=200,InpUseRSI=false,InpRSI=14
+st_sma_m2_p14	InpATR=14,InpMult=2.0,InpMethod=1,InpUseEMA=false,InpEMA=200,InpUseRSI=false,InpRSI=14
+st_ema_rsi	InpATR=10,InpMult=3.0,InpMethod=0,InpUseEMA=true,InpEMA=200,InpUseRSI=true,InpRSI=14
